@@ -47,3 +47,24 @@
         alt="Github Stats"
       />
 </table>
+</details>
+
+<!--SNAKE-->
+
+
+<p align="center">
+ 
+<a href="https://github.com/walidbosso">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+
+<a href="https://github.com/walidbosso">
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agatonjunior/Agatonjunior/pcman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agatonjunior/Agatonjunior/pacman/pacman-contribution-graph.svg">
+</picture>
+ </a>
+
+</p>
