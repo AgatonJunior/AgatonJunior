@@ -23,33 +23,27 @@
 
 </div><br/>
 
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Agatonjunior&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 <br/><br/>
 
 ## 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=AgatonJunior&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgatonJunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Agatonjunior&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Agatonjunior&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aa&show_icons=true" />
+</picture>
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=AgatonJunior&theme=dark&hide_border=false"
         alt="Github Stats"
       />
-    </td>
-  </tr>
 </table>
