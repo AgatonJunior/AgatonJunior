@@ -61,9 +61,9 @@
 <a href="https://github.com/AgatonJunior">
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/AgatonJunior/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agatonjunior/Agatonjunior/pcman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agatonjunior/Agatonjunior/pacman/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgatonJunior/walidbosso/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agatonjunior/walidbosso/pcman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agatonjunior/walidbosso/pacman/pacman-contribution-graph.svg">
 </picture>
  </a>
 
